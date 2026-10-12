@@ -1,0 +1,8 @@
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1440px;
+
+@mixin media-query($size) {
+  @media (max-width: $size) {
+    @content;
+  }
+}
