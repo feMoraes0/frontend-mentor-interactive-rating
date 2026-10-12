@@ -1,0 +1,67 @@
+/**
+ * TEXT PRESETS
+ */
+.text-preset-1 {
+  font-family: $font-family;
+  font-size: 28px;
+  font-weight: $font-bold;
+  letter-spacing: 0px;
+  line-height: 35px;
+  color: red !important;
+}
+
+.text-preset-2 {
+  font-family: $font-family;
+  font-size: 24px;
+  font-weight: $font-bold;
+  letter-spacing: 0px;
+  line-height: 30px;
+}
+
+.text-preset-3 {
+  font-family: $font-family;
+  font-size: 16px;
+  font-weight: $font-bold;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+}
+
+.text-preset-4-bold {
+  font-family: $font-family;
+  font-size: 15px;
+  font-weight: $font-bold;
+  letter-spacing: 2px;
+  line-height: 19px;
+}
+
+.text-preset-4-regular {
+  font-family: $font-family;
+  font-size: 15px;
+  font-weight: $font-regular;
+  letter-spacing: 0px;
+  line-height: 24px;
+}
+
+.text-preset-5-bold {
+  font-family: $font-family;
+  font-size: 14px;
+  font-weight: $font-bold;
+  letter-spacing: 0.17px;
+  line-height: 24px;
+}
+
+.text-preset-5-semi-bold {
+  font-family: $font-family;
+  font-size: 14px;
+  font-weight: $font-semi-bold;
+  letter-spacing: 0.17px;
+  line-height: 24px;
+}
+
+.text-preset-5 {
+  font-family: $font-family;
+  font-size: 14px;
+  font-weight: $font-regular;
+  letter-spacing: 0px;
+  line-height: 22px;
+}
